@@ -1,5 +1,5 @@
 <template>
-  <h1 class="text-center text-3xl font-bold underline" style="font-family: Taipei Sans TC Beta"> Hello World!</h1>
+  <h1 class="text-green-600 underline">HomePage</h1>
 </template>
 
 <script>
