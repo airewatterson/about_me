@@ -58,6 +58,7 @@
 </style>
 
 <script>
+  /*
 //以下是自適應導航列程式
   //指定所有變數
   const btn=document.querySelector("button.mobile-menu-button");
@@ -66,5 +67,5 @@
   //event listeners
   btn.addEventListener("click",()=>{
     menu.classList.toggle("hidden");
-  });
+  });*/
 </script> 
